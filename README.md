@@ -19,7 +19,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp> Hey There!, I am
-                <b><a target="_blank" href="https://masood-tmp.ir">Masood Talebi</a></b>
+                <b><a target="_blank" href="https://masood-tmp.ir">Masoud Talebi</a></b>
         </samp>
 </h3>
 
